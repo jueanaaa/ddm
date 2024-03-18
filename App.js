@@ -7,6 +7,7 @@ export default function App() {
       <Text>Julia Souza</Text>
       <Text>Ana Luisa</Text>
       <Text>Clone do projeto aula 04-03-2024 3B3 Lado A</Text>
+      <Text>Clone do projeto aula 04-03-2024 3B3 Lado A</Text>
     <Button title='Enviar'></Button>
       <StatusBar style="auto" />
     </View>
